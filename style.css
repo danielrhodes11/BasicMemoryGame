@@ -1,0 +1,42 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 5%;
+  
+
+}
+h1 {
+  text-align: center;
+  font-family: Anton, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  background-color: #E3D0B2 ;
+}
+
+div .purple {
+  background-color: #cfcccc8e;
+  cursor: pointer;
+  
+}
+div .green {
+  background-color: #cfcccc8e;
+  cursor: pointer;
+}
+div .blue {
+  background-color: #cfcccc8e;
+  cursor: pointer;
+}
+div .red {
+  background-color: 	#cfcccc8e;
+  cursor: pointer;
+}
+div .orange {
+  background-color:#cfcccc8e ;
+  cursor: pointer;
+}
+
+
